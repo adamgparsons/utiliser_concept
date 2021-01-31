@@ -1,0 +1,14 @@
+{
+  "name": "utiliser_concept",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "start-src": "parcel ./src/index.html",
+    "start-build": "parcel ./build/index.html"
+  }
+}

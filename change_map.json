@@ -1,0 +1,14 @@
+{
+  "h1": {
+    "newClasses": ["ff_helvetica", "fs_32", "black", "mb_24"]
+  },
+  ".paragraph": {
+    "newClasses": ["ff_helvetica", "black", "mb_24", "fs_16"]
+  },
+  "h2": {
+    "newClasses": ["ff_helvetica", "black", "fs_24", "mb_20"]
+  },
+  "h3": {
+    "newClasses": ["ff_helvetica", "black", "fs_20", "mb_16"]
+  }
+}

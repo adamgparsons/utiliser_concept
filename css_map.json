@@ -1,0 +1,38 @@
+{
+  "ff_helvetica": {
+    "value": "font-family: helvetica",
+    "srcSelectors": ["h1", "h2", "h3", ".paragraph"]
+  },
+  "fs_32": {
+    "value": "font-size: 32px",
+    "srcSelectors": ["h1"]
+  },
+  "black": {
+    "value": "color: black",
+    "srcSelectors": ["h1", "h2", "h3", ".paragraph"]
+  },
+  "mb_24": {
+    "value": "margin-bottom: 24px",
+    "srcSelectors": ["h1", ".paragraph"]
+  },
+  "fs_24": {
+    "value": "font-size: 24px",
+    "srcSelectors": ["h2"]
+  },
+  "mb_20": {
+    "value": "margin-bottom: 20px",
+    "srcSelectors": ["h2"]
+  },
+  "fs_20": {
+    "value": "font-size: 20px",
+    "srcSelectors": ["h3"]
+  },
+  "mb_16": {
+    "value": "margin-bottom: 16px",
+    "srcSelectors": ["h3"]
+  },
+  "fs_16": {
+    "value": "font-size: 16px",
+    "srcSelectors": [".paragraph"]
+  }
+}

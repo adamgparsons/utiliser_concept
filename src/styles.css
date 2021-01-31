@@ -1,0 +1,27 @@
+h1 {
+  font-family: helvetica;
+  font-size: 32px;
+  color: black;
+  margin-bottom: 24px;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 24px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 16px;
+}
+
+.paragraph {
+  font-family: helvetica;
+  font-size: 16px;
+  color: black;
+  margin-bottom: 24px;
+}
